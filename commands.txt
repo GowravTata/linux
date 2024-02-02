@@ -1,0 +1,7 @@
+cat commands.txt 
+date
+date "+%Y %m" # can also be used in this way , so that it gives the year, month
+2024 01
+
+l : command used to get the calendar of the current month or the month specified using cal command
+
